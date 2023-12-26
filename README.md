@@ -1,4 +1,4 @@
-# React Challenge App [Demo](https://react-challenge-jad.netlify.app/)
+# TCG MarketPlace [Demo](https://react-challenge-jad.netlify.app/)
 
 This Project was created by using [Create React App](https://github.com/facebook/create-react-app) Package
 
